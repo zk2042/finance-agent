@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "房租",
+    "amount": 2000,
+    "day": 1,
+    "category": "住房"
+  },
+  {
+    "id": "2",
+    "name": "百度网盘会员",
+    "amount": 25,
+    "day": 1,
+    "category": "订阅"
+  },
+  {
+    "id": "3",
+    "name": "爱奇艺会员",
+    "amount": 15,
+    "day": 1,
+    "category": "订阅"
+  },
+  {
+    "id": "4",
+    "name": "手机套餐",
+    "amount": 59,
+    "day": 5,
+    "category": "通讯"
+  },
+  {
+    "id": "5",
+    "name": "水电燃气",
+    "amount": 120,
+    "day": 8,
+    "category": "住房"
+  },
+  {
+    "id": "6",
+    "name": "健身房月卡",
+    "amount": 199,
+    "day": 10,
+    "category": "健康"
+  }
+]

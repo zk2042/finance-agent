@@ -1,0 +1,16 @@
+# 环境变量（包含 API KEY，绝对不能传）
+.env
+.env.*
+!.env.example
+
+# 编译后的二进制文件
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+finance-agent
+
+# 测试文件与日志
+*.log
+tmp/

@@ -1,0 +1,18 @@
+{
+    "mcpServers": {
+        "zenmoney": {
+            "command": "./zenmoney-mcp.exe",
+            "args": [],
+            "env": {
+                "ZENMONEY_TOKEN": "${ZENMONEY_TOKEN}"
+            }
+        },
+        "notify": {
+            "command": "D:\\software\\python\\Scripts\\ntfy-mcp.exe",
+            "args": [],
+            "env": {
+                "NTFY_TOPIC": "${NTFY_TOPIC}"
+            }
+        }
+    }
+}
